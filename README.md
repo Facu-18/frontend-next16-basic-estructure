@@ -47,4 +47,4 @@ El proyecto utiliza **Tailwind CSS 4**. La configuración se realiza directament
 ```
 
 ---
-Creado por **Antigravity** para potenciar tu flujo de trabajo.
+
